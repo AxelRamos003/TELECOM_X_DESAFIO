@@ -49,3 +49,6 @@ Abrir el notebook: en google colab
 **Próximos Pasos**
 
 Los hallazgos obtenidos serán la base para el equipo de Data Science, que desarrollará modelos predictivos de churn. Esto permitirá implementar estrategias personalizadas de retención y optimizar la toma de decisiones comerciales.
+
+
+**proyecto realizado por Axel Ramos Estudiante de Alura Latam.**
